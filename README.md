@@ -1,6 +1,6 @@
 # Hi, I'm Jiyul
 
-Incoming Mechatronics Engineering student at the University of Waterloo working on mechanical design, robotics hardware, and software development.
+Mechatronics Engineering student at the University of Waterloo working on mechanical design, robotics hardware, and software development.
 
 ---
 
