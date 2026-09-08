@@ -9,7 +9,6 @@ Mechatronics Engineering student at the University of Waterloo working on mechan
 - **Languages:** Python, C++ (Arduino)
 - **Hardware & Embedded:** Arduino Uno/Nano, Servo Control, HC-SR04 Ultrasonic Sensors, L298N Motor Drivers
 - **CAD & Mechanical Design:** Autodesk Fusion 360 (3D Modeling, Assemblies, 2D Technical Drawings)
-- **Software Development:** Python (`tkinter`), Event-Loop Programming
 
 ---
 
