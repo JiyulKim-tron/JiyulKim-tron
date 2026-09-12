@@ -29,3 +29,4 @@ Python Tkinter desktop game blending Keno with run-based quota progression, non-
 
 - **Email:** [jkyil@outlook.com]
 - **GitHub:** [github.com/JiyulKim-tron](https://github.com/JiyulKim-tron)
+- **LinkedIn** [linkedin.com/in/jiyulk/](https://www.linkedin.com/in/jiyulk/)
